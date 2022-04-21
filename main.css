@@ -1,0 +1,112 @@
+.etablissment {
+    height: auto;
+    width: 900px;
+    border: solid rgb(194, 187, 187) 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    position:relative;
+    
+}
+
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.border {
+    border: solid black;
+}
+.textmain{
+    font-size: 20px;
+}
+
+.etaimg {
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.im{
+    width: 320px;
+    height: 200px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 15px;
+}
+.etaleft{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 20px 10px;
+   display: inline-block;
+   position: relative;
+
+}
+
+.etaright{
+    width: 230px;
+    height: 200px;
+    margin: 20px 10px 20px 0;
+    position: relative;
+}
+
+.nometa {
+    font-weight: 700;
+    text-align: left !important;
+}
+
+.tx {
+    text-align: left !important;
+    
+}
+.tc {
+    text-align: center;
+}
+.lws{
+    line-height: 15px;
+}
+
+.rest {
+    width: 40px;
+}
+
+.lw{
+    line-height: 17px;
+}
+
+.hotel {
+    width: 30px;
+    margin-left: 10px;
+}
+
+.reserv {
+    font-size: 13px;
+    position: absolute;
+    bottom: 0;
+}
+
+.bg{
+background: url(../images/aproved.png) no-repeat; 
+background-size: 15px;   
+padding-left: 17px;
+}
+
+
+.btnchambres{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
+
+.btn {
+    background-color: blueviolet;
+    color: white;
+}
+
+.disc{
+    margin-left: 20px;
+}
+

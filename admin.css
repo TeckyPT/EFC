@@ -1,0 +1,26 @@
+.listetablissement {
+   display: inline-block;
+   border: 5px solid rgb(39, 106, 161);
+   width: auto;
+   margin: 20px;
+}
+
+.etanom,.etaadress,.etaid{
+   background-color: rgb(202, 214, 214);
+}
+
+
+.etaform{
+   display: inline-block;
+
+}
+
+.inputs {
+   text-align: left;
+   margin-top: 30px;
+ }
+ 
+ .btnajouter{
+    width: 150px;
+    margin: 0 auto;
+ }
